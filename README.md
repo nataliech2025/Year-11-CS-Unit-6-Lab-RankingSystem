@@ -50,3 +50,6 @@ user.incProgress(-5); // will add 90 progress
 user.getProgress(); // => 0 // progress is now zero
 user.getRank(); // => -7 // rank was upgraded to -7
 user.incProgress(0); // an IllegalArgumentException will be thrown. The message “The rank of an activity cannot be less than 8, 0, or greater than 8!” will be the message displayed as part of this thrown exception. 
+
+Name = Natalie
+Partner = Carolyn
